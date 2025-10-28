@@ -135,7 +135,7 @@ O relatório foi estruturado com **visuais interativos, indicadores de desempenh
 👤 **Pedro Cortez**  
 📧 contato@pcdatasolution.com.br  
 💼 [LinkedIn](https://www.linkedin.com/in/pedro-cortez96/)  
-🌐 [Portfolio](portfolio.pcdatasolution.com.br)
+🌐 [Portfolio](https://pedrocortez09.github.io/portfolio_projetos/)
 
 ---
 
